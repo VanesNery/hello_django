@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/vanessa/.pyenv/versions/dev_django/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "yapf"
+}

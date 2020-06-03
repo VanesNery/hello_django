@@ -11,7 +11,7 @@
 
 * * * 
 
-Os passos abaixo vai auxiliar você va criação de uma ambiente virtual, porém antes de começar, precisa ter instalado em sua maquina:
+Os passos abaixo vai auxiliar você na criação de um ambiente virtual, porém antes de começar, precisa ter instalado em sua maquina:
 
 * Vscode
 * Python

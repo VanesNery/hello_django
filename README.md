@@ -85,4 +85,5 @@ Nesse momento você vai dá o start no projeto e vai ser criada uma pasta no dir
 
   Para criar o launch, vai na opção de **Run**, clique na opção de **_create launch.json_**, ele já vem com algumas coisas configuradas, no meu caso eu tirei a opção _noreload_. O nome já diz, se ele tiver nos paramentos o projeto não será recarregado quando você estiver fazendo as mudanças, será necessário rodar o projeto novamente.
 
-  Espero que vocês tenham gostado do tutorial# hello_django
+ Espero que vocês tenham gostado do tutorial  :facepunch: :kissing_heart:
+  
